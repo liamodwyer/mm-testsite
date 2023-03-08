@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/liampic.jpg"
+  avatar : "/assets/images/liampic.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
